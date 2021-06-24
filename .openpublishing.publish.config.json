@@ -35,6 +35,9 @@
     ],
     "master": [
       "Publish"
+    ],
+    "develop": [
+      "Publish"
     ]
   },
   "need_generate_pdf_url_template": false,
