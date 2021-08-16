@@ -38,6 +38,9 @@
     ],
     "develop": [
       "Publish"
+    ],
+    "pdf": [
+      "PDF"
     ]
   },
   "need_generate_pdf_url_template": false,
