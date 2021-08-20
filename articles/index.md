@@ -11,4 +11,4 @@ ms.date: 08/20/2021
 
 Syncing~
 
-Conceptual contents ++7
+Conceptual contents ++8
