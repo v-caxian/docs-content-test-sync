@@ -14,3 +14,9 @@ Develop~
 ![dog](./images/cat.jpg)
 
 Conceptual contents 061005
+
+## Large image in table
+
+| Name | Picture |
+| :---: | :---: |
+|largeImage|![largeImage](./images/largeImage.jpg)|       
